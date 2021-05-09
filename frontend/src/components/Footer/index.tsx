@@ -11,7 +11,7 @@ const Footer = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Leandro Mariotti
+            LEANDRO MARIOTTI
           </a>
         </p>
         <p className="text-light">
